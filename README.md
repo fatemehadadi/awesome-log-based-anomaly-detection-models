@@ -40,13 +40,13 @@ This repository aims to curate a comprehensive collection of resources to suppor
 - "System Log Analysis for Anomaly Detection: A Survey" – Zhang et al., 2022. [Link]()
 
 ### Deep Learning Approaches
-- "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019.
-- "LogRobust: Robust Log-based Anomaly Detection under Unstable Log Data" – Zhang et al., 2023.
+- "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019. [Link]()
+- "LogRobust: Robust Log-based Anomaly Detection under Unstable Log Data" – Zhang et al., 2023. [Link]()
 
 ### Language Model-based Methods
-- "LogGPT: A General Framework for Log Anomaly Detection with Pre-trained Language Models" – Zhang et al., 2023.
-- "LogBERT: Log Anomaly Detection via BERT-based Log Sequence Modeling" – Wang et al., 2021.
-- "FlexLog" – Hadadi et al., 2025.
+- "LogGPT: A General Framework for Log Anomaly Detection with Pre-trained Language Models" – Zhang et al., 2023. [Link]()
+- "LogBERT: Log Anomaly Detection via BERT-based Log Sequence Modeling" – Wang et al., 2021. [Link]()
+- "FlexLog" – Hadadi et al., 2025. [Link]()
 
 ## Other Awesome Resources
 - [LogPAI Project](https://www.logpai.com/): A central hub for tools and datasets in log analysis.
