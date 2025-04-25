@@ -2,7 +2,7 @@
 
 Log-based anomaly detection is a critical area of research and practice for ensuring the reliability and security of complex systems. With the increasing volume and complexity of log data, a wide variety of techniques have emerged, ranging from traditional machine learning and statistical models to deep learning and large language model (LLM)-based solutions.
 
-This repository aims to curate a comprehensive collection of resources to support beginners and researchers interested in log-based anomaly detection. Contributions and suggestions are welcome. If you spot any missing resources or wish to contribute, feel free to open an issue or pull request. For questions or suggestions, contact: fhada072@uottawa.ca`
+This repository aims to curate a comprehensive collection of resources to support beginners and researchers interested in log-based anomaly detection. Contributions and suggestions are welcome. If you spot any missing resources or wish to contribute, feel free to open an issue or pull request. For questions or suggestions, contact: fhada072@uottawa.ca
 
 ---
 
