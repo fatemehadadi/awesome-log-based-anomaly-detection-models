@@ -14,53 +14,39 @@ This repository aims to curate a comprehensive collection of resources to suppor
   - [Survey and Overview Papers](#survey-and-overview-papers)
   - [Deep Learning Approaches](#deep-learning-approaches)
   - [Language Model-based Methods](#language-model-based-methods)
-  - [Benchmarking and Evaluation](#benchmarking-and-evaluation)
-  - [Interpretability and Explainability](#interpretability-and-explainability)
 - [Other Awesome Resources](#other-awesome-resources)
 
 ---
 
 ## Awesome Libraries and Frameworks
-- [LogPAI/Loglizer](https://github.com/logpai/loglizer): A toolkit for automated log analysis using traditional ML and statistical approaches.
-- [LogPAI/LogDeep](https://github.com/logpai/deep-loglizer): Deep learning-based framework for log anomaly detection.
-- [LogADEmpirical](https://github.com/LogIntelligence/LogADEmpirical): Implements deep learning models for sequential log anomaly detection
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/loglizer?style=social) [LogPAI/Loglizer](https://github.com/logpai/loglizer): A toolkit for automated log analysis using traditional ML and statistical approaches.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/deep-loglizer?style=social) [LogPAI/LogDeep](https://github.com/logpai/deep-loglizer): Deep learning-based framework for log anomaly detection.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/LogIntelligence/LogADEmpirical?style=social) [LogADEmpirical](https://github.com/LogIntelligence/LogADEmpirical): Implements deep learning models for sequential log anomaly detection
 
 ## Awesome Datasets
-- [HDFS](https://github.com/logpai/loghub): Hadoop logs for anomaly detection.
-- [BGL](https://github.com/logpai/loghub): BlueGene/L supercomputer logs.
-- [Thunderbird, Spirit, and Linux Logs](https://github.com/logpai/loghub): Multiple open-source datasets provided by LogHub.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/loghub?style=social) [HDFS](https://github.com/logpai/loghub): Hadoop logs for anomaly detection.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/loghub?style=social) [BGL](https://github.com/logpai/loghub): BlueGene/L supercomputer logs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/loghub?style=social) [Thunderbird, Spirit, and Linux Logs](https://github.com/logpai/loghub): Multiple open-source datasets provided by LogHub.
 - [ADFA-LD](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-IDS-Datasets/): Synthetic intrusion detection dataset with system call traces.
 
 ## Awesome Tutorials and Tools
-- [Drain3](https://github.com/IBM/drain3): A Python implementation of the Drain log parsing algorithm with online capabilities.
-- [LogParse](https://github.com/logpai/logparser): A benchmark of various log parsers.
-- [Logbert](https://github.com/THU-BPM/LogBERT): BERT-based log anomaly detection.
-
+- ![GitHub Repo stars](https://img.shields.io/github/stars/IBM/drain3?style=social) [Drain3](https://github.com/IBM/drain3): A Python implementation of the Drain log parsing algorithm with online capabilities.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/logpai/logparser?style=social) [LogParse](https://github.com/logpai/logparser): A benchmark of various log parsers.
+- 
 ## Awesome Papers
 
 ### Survey and Overview Papers
-- "A Survey of Log Analysis for Anomaly Detection" – Du et al., 2017. [Link](https://arxiv.org/abs/1611.09156)
-- "System Log Analysis for Anomaly Detection: A Survey" – Zhang et al., 2022. [Link](https://arxiv.org/abs/2201.10793)
+- "A Survey of Log Analysis for Anomaly Detection" – Du et al., 2017. [Link]()
+- "System Log Analysis for Anomaly Detection: A Survey" – Zhang et al., 2022. [Link]()
 
 ### Deep Learning Approaches
-- "DEEPLDA: Deep Log Sequence Learning for Anomaly Detection" – Du et al., 2017.
 - "LogAnomaly: Unsupervised Detection of Anomalies in Unstructured Logs" – Meng et al., 2019.
 - "LogRobust: Robust Log-based Anomaly Detection under Unstable Log Data" – Zhang et al., 2023.
 
 ### Language Model-based Methods
 - "LogGPT: A General Framework for Log Anomaly Detection with Pre-trained Language Models" – Zhang et al., 2023.
 - "LogBERT: Log Anomaly Detection via BERT-based Log Sequence Modeling" – Wang et al., 2021.
-- "FlexLog: Systematic Evaluation of LLM-enhanced Ensembles for Log Anomaly Detection" – Hadadi et al., 2025.
-
-### Benchmarking and Evaluation
-- "LogHub: A Large Collection of System Log Datasets" – He et al., 2020.
-- "LogParse: A Benchmark and Evaluation of Log Parsers" – Zhu et al., 2020.
-- "Benchmarks for Log Anomaly Detection under Log Instability" – Zhang et al., 2024.
-
-### Interpretability and Explainability
-- "Towards Interpretable Log Anomaly Detection with Attention Weights" – Xu et al., 2022.
-- "Evaluating the Interpretability of LLMs for Log-based Failure Detection" – Hadadi et al., 2025 (forthcoming).
-- "Faithfulness in NLP Explanations: Metrics and Evaluation" – Jacovi & Goldberg, 2020.
+- "FlexLog" – Hadadi et al., 2025.
 
 ## Other Awesome Resources
 - [LogPAI Project](https://www.logpai.com/): A central hub for tools and datasets in log analysis.
