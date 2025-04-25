@@ -22,9 +22,8 @@ This repository aims to curate a comprehensive collection of resources to suppor
 
 ## Awesome Libraries and Frameworks
 - [LogPAI/Loglizer](https://github.com/logpai/loglizer): A toolkit for automated log analysis using traditional ML and statistical approaches.
-- [LogPAI/LogDeep](https://github.com/logpai/logdeep): Deep learning-based framework for log anomaly detection.
-- [LogAnomaly](https://github.com/logpai/loganomaly): Implements deep learning models for sequential log anomaly detection.
-- [HPCLogAnalyzer](https://github.com/llnl/hpc-log-analyzer): Tool for analyzing HPC system logs.
+- [LogPAI/LogDeep](https://github.com/logpai/deep-loglizer): Deep learning-based framework for log anomaly detection.
+- [LogADEmpirical](https://github.com/LogIntelligence/LogADEmpirical): Implements deep learning models for sequential log anomaly detection
 
 ## Awesome Datasets
 - [HDFS](https://github.com/logpai/loghub): Hadoop logs for anomaly detection.
