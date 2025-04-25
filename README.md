@@ -51,7 +51,19 @@ This repository aims to curate a comprehensive collection of resources to suppor
 - [LogPAI Project](https://www.logpai.com/): A central hub for tools and datasets in log analysis.
 - [Kaggle Log Datasets](https://www.kaggle.com/datasets): Several security- and system-related logs.
 
----
+## Citation
+If you find this repository helpful for your research or teaching, please consider citing it:
+
+```bibtex
+@misc{awesomelogad,
+  title = {Awesome Log-based Anomaly Detection Models},
+  author = {Fatemeh Hadadi},
+  year = {2025},
+  url = {https://github.com/yourusername/awesome-log-anomaly-detection},
+  note = {Accessed: YYYY-MM-DD}
+}
+```
 
 Feel free to fork and contribute!
+
 
